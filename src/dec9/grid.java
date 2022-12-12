@@ -1,4 +1,4 @@
-package GridDemo;
+package dec9;
 import java.awt.GridLayout;
 import javax.swing.*;
 public class grid extends JFrame{

@@ -1,13 +1,12 @@
-import dec6.*;
-import dec7.*;
 import dec9.*;
-import GridDemo.*;
+import dec12.*;
 public class Main {
     public static void main(String[] args){
         //new Frame1();
         //layout demo
         //new layoutDemo();
-//        new flowLayout();
-        new grid();
+        //new flowLayout();
+       // new grid();
+        new borderLyout();
     }
 }
