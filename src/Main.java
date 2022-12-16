@@ -2,6 +2,7 @@ import dec9.*;
 import dec12.*;
 import dec13.*;
 import dec15.*;
+import dec16.*;
 public class Main {
     public static void main(String[] args){
         //new Frame1();
@@ -12,6 +13,10 @@ public class Main {
         //new borderLayout();
         //new eventDemo();
         //new eventDemo2();
-        new textDemo();
+        //new textDemo();
+//        checkBoxDemo obj = new checkBoxDemo();
+//        obj.CreateUI();
+        eventDemo obj = new eventDemo();
+        obj.eventDemo();
     }
 }
