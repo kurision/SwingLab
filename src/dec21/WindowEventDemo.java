@@ -11,6 +11,8 @@ public class WindowEventDemo extends JFrame implements WindowListener {
         setLayout(null);
         txt.setBounds(50,50,100,80);
         txt.setToolTipText("Wrong");
+        txt.setBorder(BorderFactory.createTitledBorder("hello anil"));
+        txt.setBorder(BorderFactory.createBevelBorder(10));
         add(txt);
         setSize(400,400);
         setVisible(true);
