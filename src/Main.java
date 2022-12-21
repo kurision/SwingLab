@@ -4,6 +4,7 @@ import dec12.*;
 import dec13.*;
 import dec15.*;
 import dec16.*;
+import dec21.*;
 public class Main {
     public static void main(String[] args){
         //new Frame1();
@@ -19,6 +20,7 @@ public class Main {
 //        obj.eventDemo();
 //        checkBoxDemo obj = new checkBoxDemo();
 //        obj.CreateUI();
-        new buttenDemo();
+       // new buttenDemo();
+        new WindowEventDemo();
     }
 }
