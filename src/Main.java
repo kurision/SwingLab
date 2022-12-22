@@ -1,4 +1,6 @@
 import dec20.*;
+import dec22.MouseEveDemo;
+import dec22.MouseEventEx;
 import dec9.*;
 import dec12.*;
 import dec13.*;
@@ -21,6 +23,8 @@ public class Main {
 //        checkBoxDemo obj = new checkBoxDemo();
 //        obj.CreateUI();
        // new buttenDemo();
-        new WindowEventDemo();
+        //new WindowEventDemo();
+        //new MouseEveDemo();
+        new MouseEventEx();
     }
 }
