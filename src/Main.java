@@ -1,6 +1,7 @@
 import dec20.*;
 import dec22.MouseEveDemo;
 import dec22.MouseEventEx;
+import dec26.MenuDemo;
 import dec9.*;
 import dec12.*;
 import dec13.*;
@@ -25,6 +26,7 @@ public class Main {
        // new buttenDemo();
         //new WindowEventDemo();
         //new MouseEveDemo();
-        new MouseEventEx();
+        //new MouseEventEx();
+        new MenuDemo();
     }
 }
