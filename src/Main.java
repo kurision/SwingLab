@@ -30,8 +30,8 @@ public class Main {
         //new MouseEveDemo();
         //new MouseEventEx();
         //new MenuDemo();
-        //new MnemonicsDemo();
-        MnemonicsReff m = new MnemonicsReff();
-        m.createAndShowGUI();
+        new MnemonicsDemo();
+//        MnemonicsReff m = new MnemonicsReff();
+//        m.createAndShowGUI();
     }
 }
