@@ -2,6 +2,8 @@ import dec20.*;
 import dec22.MouseEveDemo;
 import dec22.MouseEventEx;
 import dec26.MenuDemo;
+import dec27.MnemonicsDemo;
+import dec27.MnemonicsReff;
 import dec9.*;
 import dec12.*;
 import dec13.*;
@@ -27,6 +29,8 @@ public class Main {
         //new WindowEventDemo();
         //new MouseEveDemo();
         //new MouseEventEx();
-        new MenuDemo();
+        //new MenuDemo();
+        new MnemonicsDemo();
+
     }
 }
