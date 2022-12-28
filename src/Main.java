@@ -4,6 +4,8 @@ import dec22.MouseEventEx;
 import dec26.MenuDemo;
 import dec27.MnemonicsDemo;
 import dec27.MnemonicsReff;
+import dec28.DialogBoxDemo;
+import dec28.PopupMenuDemo;
 import dec9.*;
 import dec12.*;
 import dec13.*;
@@ -30,8 +32,10 @@ public class Main {
         //new MouseEveDemo();
         //new MouseEventEx();
         //new MenuDemo();
-        new MnemonicsDemo();
+        //new MnemonicsDemo();
 //        MnemonicsReff m = new MnemonicsReff();
 //        m.createAndShowGUI();
+        //new PopupMenuDemo();
+        new DialogBoxDemo();
     }
 }
